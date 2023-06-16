@@ -17,6 +17,3 @@ with open('D:\GitHub\samkingsly_learnrepo\ex5.json', 'r') as file:
         
 with open('D:\GitHub\samkingsly_learnrepo\ex5.json','w') as out:
     json.dump(ex5,out,indent=4)
-
-
-
