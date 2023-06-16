@@ -111,11 +111,23 @@
                     "type": "Coffee"
                 },
                 {
-                    "id": 1004,
+                    "id": 1003,
                     "type": "Coffee"
                 },
                 {
-                    "id": 1005,
+                    "id": 1003,
+                    "type": "Coffee"
+                },
+                {
+                    "id": 1003,
+                    "type": "Coffee"
+                },
+                {
+                    "id": 1003,
+                    "type": "Coffee"
+                },
+                {
+                    "id": 1004,
                     "type": "Coffee"
                 }
             ]
